@@ -1,0 +1,27 @@
+{
+  "name": "ppi_trabalho_final",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/salvebks/PPI_Trabalho_Final#readme",
+  "bugs": {
+    "url": "https://github.com/salvebks/PPI_Trabalho_Final/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvebks/PPI_Trabalho_Final.git"
+  },
+  "license": "ISC",
+  "author": "Murillo Henrique",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "session": "^0.1.0"
+  }
+}
